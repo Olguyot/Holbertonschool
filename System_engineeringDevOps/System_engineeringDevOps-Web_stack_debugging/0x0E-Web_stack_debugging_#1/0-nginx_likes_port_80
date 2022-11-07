@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+# Task 0 0x0D
+service nginx stop
+echo "server {
+        listen 80 default_server;
+        listen [::]:80 default_server ipv6only=on;
+
+        root /usr/share/nginx/html;
+        index index.html index.htm;
+
+        server_name localhost;
+
+        location / {
+                try_files \$uri \$uri/ =404;
+        }
+}" > /etc/nginx/sites-enabled/default
+service nginx start
