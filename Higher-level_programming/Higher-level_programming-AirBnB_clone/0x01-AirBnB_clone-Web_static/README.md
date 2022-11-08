@@ -1,21 +1,22 @@
-<h2>Learning Objectives</h2>
+# Learning Objectives
+* What is HTML
+* How to create an HTML page
+* What is a markup language
+* What is the DOM
+* What is an element / tag
+* What is an attribute
+* How does the browser load a webpage
+* What is CSS
+* How to add style to an element
+* What is a class
+* What is a selector
+* How to compute CSS Specificity Value
+* What are Box properties in CSS
 
 
-<h3>General</h3>
+# AirBnB_clone Copie of 0x00 with web_static folder
 
-<ul>
-<li>What is HTML</li>
-<li>How to create an HTML page</li>
-<li>What is a markup language</li>
-<li>What is the DOM</li>
-<li>What is an element / tag</li>
-<li>What is an attribute</li>
-<li>How does the browser load a webpage</li>
-<li>What is CSS</li>
-<li>How to add style to an element</li>
-<li>What is a class</li>
-<li>What is a selector</li>
-<li>How to compute CSS Specificity Value</li>
-<li>What are Box properties in CSS</li>
-</ul>
+### Description of the project
 
+Web_static folder in which there is a static version of the AirBnB project.
+See 0x00 to know how to use.
