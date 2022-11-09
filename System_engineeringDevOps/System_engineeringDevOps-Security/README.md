@@ -1,5 +1,5 @@
 <h1>Learning Objectives</h1>
-<li>What is a server</li>
+0x13-Firewall0x0B-SSH<li>What is a server</li>
 <li>Where servers usually live</li>
 <li>What is SSH</li>
 <li>How to create an SSH RSA key pair</li>

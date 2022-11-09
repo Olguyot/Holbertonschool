@@ -1,5 +1,5 @@
 <h1>Learning Objectives</h1>
-<li>How to create a new MySQL user</li>
+0x0E-SQL-More_queries_<li>How to create a new MySQL user</li>
 <li>How to manage privileges for a user to a database or table</li>
 <li>What’s a <code>PRIMARY KEY</code></li>
 <li>What’s a <code>FOREIGN KEY</code></li>
@@ -7,7 +7,7 @@
 <li>How to retrieve datas from multiple tables in one request</li>
 <li>What are subqueries</li>
 <li>What are <code>JOIN</code> and <code>UNION</code></li>
-<li>What’s a database</li>
+0x0D-SQL-Introduction<li>What’s a database</li>
 <li>What’s a relational database</li>
 <li>What does SQL stand for</li>
 <li>What’s MySQL</li>

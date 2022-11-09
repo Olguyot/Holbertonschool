@@ -1,11 +1,11 @@
 <h1>Learning Objectives</h1>
-<li>What is Unit testing and how to implement it in a large project</li>
+0x0C-Python-Almost_a_circle<li>What is Unit testing and how to implement it in a large project</li>
 <li>How to serialize and deserialize a Class</li>
 <li>How to write and read a JSON file</li>
 <li>What is <code>*args</code> and how to use it</li>
 <li>What is <code>**kwargs</code> and how to use it</li>
 <li>How to handle named arguments in a function</li>
-<li>Why Python programming is awesome </li>
+0x06-Python-Classes_and_Objects<li>Why Python programming is awesome </li>
 <li>What is OOP</li>
 <li>“first-class everything”</li>
 <li>What is a class</li>
@@ -25,7 +25,7 @@
 <li>What is the <code>__dict__</code> of a class and/or instance of a class and what does it contain</li>
 <li>How does Python find the attributes of an object or class</li>
 <li>How to use the <code>getattr</code> function</li>
-<li>Why Python programming is awesome</li>
+0x03-Python-Data_Structures_Lists_Tuples<li>Why Python programming is awesome</li>
 <li>What are lists and how to use them</li>
 <li>What are the differences and similarities between strings and lists</li>
 <li>What are the most common methods of lists and how to use them</li>
@@ -37,7 +37,7 @@
 <li>What is tuple packing</li>
 <li>What is sequence unpacking</li>
 <li>What is the <code>del</code> statement and how to use it</li>
-<li>Why Python programming is awesome </li>
+0x08-Python-More_Classes_and_Objects<li>Why Python programming is awesome </li>
 <li>What is OOP</li>
 <li>“first-class everything”</li>
 <li>What is a class</li>
@@ -63,7 +63,7 @@
 <li>What is and what does contain <code>__dict__</code> of a class and of an instance of a class</li>
 <li>How does Python find the attributes of an object or class</li>
 <li>How to use the <code>getattr</code> function</li>
-<li>What a URL is</li>
+0x10-Python-Network_#0<li>What a URL is</li>
 <li>What HTTP is</li>
 <li>How to read a URL</li>
 <li>The scheme for a HTTP URL</li>
@@ -80,7 +80,7 @@
 <li>What an HTTP Cookie is</li>
 <li>How to make a request with cURL</li>
 <li>What happens when you type google.com in your browser (Application level)</li>
-<li>Why Python programming is awesome</li>
+0x00-Python-Hello_World<li>Why Python programming is awesome</li>
 <li>Who created Python</li>
 <li>Who is Guido van Rossum</li>
 <li>Where does the name ‘Python’ come from</li>
@@ -90,14 +90,14 @@
 <li>How to use strings</li>
 <li>What are indexing and slicing in Python</li>
 <li>What is the official Python coding style and how to check your code with <code>pycodestyle</code></li>
-<li>How to fetch internet resources with the Python package <code>urllib</code></li>
+0x11-Python-Network_#1<li>How to fetch internet resources with the Python package <code>urllib</code></li>
 <li>How to decode <code>urllib</code> body response</li>
 <li>How to use the Python package <code>requests</code> #requestsiswaysimplerthanurllib</li>
 <li>How to make HTTP <code>GET</code> request </li>
 <li>How to make HTTP <code>POST</code>/<code>PUT</code>/etc. request</li>
 <li>How to fetch JSON resources</li>
 <li>How to manipulate data from an external service</li>
-<li>Why Python programming is awesome</li>
+0x09-Python-Everything_is_object_quizz<li>Why Python programming is awesome</li>
 <li>What is an object</li>
 <li>What is the difference between a class and an object or instance</li>
 <li>What is the difference between immutable object and mutable object</li>
@@ -111,7 +111,7 @@
 <li>What are the built-in mutable types</li>
 <li>What are the built-in immutable types</li>
 <li>How does Python pass variables to functions</li>
-<li>Why Python programming is awesome</li>
+0x01-Python-if_else_loops_functions<li>Why Python programming is awesome</li>
 <li>Why indentation is so important in Python</li>
 <li>How to use the <code>if</code>, <code>if ... else</code> statements</li>
 <li>How to use comments</li>
@@ -127,7 +127,7 @@
 <li>Scope of variables</li>
 <li>What’s a traceback</li>
 <li>What are the arithmetic operators and how to use them</li>
-<li>Why Python programming is awesome </li>
+0x05-Python-Exceptions<li>Why Python programming is awesome </li>
 <li>What’s the difference between errors and exceptions</li>
 <li>What are exceptions and how to use them</li>
 <li>When do we need to use exceptions</li>
@@ -135,7 +135,7 @@
 <li>What’s the purpose of catching exceptions</li>
 <li>How to raise a builtin exception</li>
 <li>When do we need to implement a clean-up action after an exception</li>
-<li>Why Python programming is awesome </li>
+0x0A-Python-Inheritance<li>Why Python programming is awesome </li>
 <li>What is a superclass, baseclass or parentclass</li>
 <li>What is a subclass</li>
 <li>How to list all attributes and methods of a class or instance</li>
@@ -147,14 +147,14 @@
 <li>Which attributes or methods are available by heritage to subclasses</li>
 <li>What is the purpose of inheritance</li>
 <li>What are, when and how to use <code>isinstance</code>, <code>issubclass</code>, <code>type</code> and <code>super</code> built-in functions</li>
-<li>Why Python programming is awesome</li>
+0x07-Python-Test-driven_development<li>Why Python programming is awesome</li>
 <li>What’s an interactive test</li>
 <li>Why tests are important</li>
 <li>How to write Docstrings to create tests</li>
 <li>How to write documentation for each module and function</li>
 <li>What are the basic option flags to create tests</li>
 <li>How to find edge cases</li>
-<li>Why Python programming is awesome</li>
+0x04-Python-More_Data_Structures_Set_Dictionary<li>Why Python programming is awesome</li>
 <li>What are sets and how to use them</li>
 <li>What are the most common methods of set and how to use them</li>
 <li>When to use sets versus lists</li>
@@ -165,13 +165,13 @@
 <li>How to iterate over a dictionary</li>
 <li>What is a lambda function</li>
 <li>What are the map, reduce and filter functions</li>
-<li>Why Python programming is awesome</li>
+0x0F-Python-Object-relational_mapping<li>Why Python programming is awesome</li>
 <li>How to connect to a MySQL database from a Python script</li>
 <li>How to <code>SELECT</code> rows in a MySQL table from a Python script</li>
 <li>How to <code>INSERT</code> rows in a MySQL table from a Python script </li>
 <li>What ORM means</li>
 <li>How to map a Python Class to a MySQL table</li>
-<li>Why Python programming is awesome</li>
+0x0B-Python-Input_Output<li>Why Python programming is awesome</li>
 <li>How to open a file</li>
 <li>How to write text in a file</li>
 <li>How to read the full content of a file </li>
@@ -184,7 +184,7 @@
 <li>What is deserialization</li>
 <li>How to convert a Python data structure to a JSON string </li>
 <li>How to convert a JSON string to a Python data structure</li>
-<li>Why Python programming is awesome</li>
+0x02-Python-importmodules<li>Why Python programming is awesome</li>
 <li>How to import functions from another file</li>
 <li>How to use imported functions</li>
 <li>How to create a module</li>

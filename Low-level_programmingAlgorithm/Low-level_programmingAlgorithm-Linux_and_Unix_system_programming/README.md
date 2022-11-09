@@ -1,5 +1,5 @@
 <h1>Learning Objectives</h1>
-<li>Look for the right source of information online</li>
+0x15-C-File_I_O<li>Look for the right source of information online</li>
 <li>How to create, open, close, read and write files</li>
 <li>What are file descriptors</li>
 <li>What are the 3 standard file descriptors, what are their purpose and what are their <code>POSIX</code> names</li>
@@ -8,7 +8,7 @@
 <li>What are file permissions, and how to set them when creating a file with the <code>open</code> system call</li>
 <li>What is a system call</li>
 <li>What is the difference between a function and a system call</li>
-<li>Who designed and implemented the original Unix operating system</li>
+0x16-C-Simple_Shell<li>Who designed and implemented the original Unix operating system</li>
 <li>Who wrote the first version of the UNIX shell</li>
 <li>Who invented the B programming language (the direct predecessor to the C programming language)</li>
 <li>Who is Ken Thompson</li>

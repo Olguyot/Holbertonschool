@@ -1,5 +1,5 @@
 <h1>Learning Objectives</h1>
-<li>What it is</li>
+0x07-Networking_basics_#0<li>What it is</li>
 <li>How many layers it has</li>
 <li>How it is organized</li>
 <li>Typical usage</li>
@@ -16,7 +16,7 @@
 <li>What is a port</li>
 <li>Memorize SSH, HTTP and HTTPS port numbers</li>
 <li>What tool/protocol is often used to check if a device is connected to a network</li>
-<li>What is localhost/127.0.0.1</li>
+0x08-Networking_basics_#1<li>What is localhost/127.0.0.1</li>
 <li>What is 0.0.0.0</li>
 <li>What is <code>/etc/hosts</code></li>
 <li>How to display your machine’s active network interfaces</li>

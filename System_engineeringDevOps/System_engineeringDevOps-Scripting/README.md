@@ -1,5 +1,5 @@
 <h1>Learning Objectives</h1>
-<li>What is an API</li>
+0x06-Regular_expression0x15-API<li>What is an API</li>
 <li>What is a REST API</li>
 <li>What are microservices</li>
 <li>What is the CSV format</li>
@@ -10,7 +10,7 @@
 <li>Pythonic Function name style</li>
 <li>Pythonic Constant name style</li>
 <li>Significance of CapWords or CamelCase in Python</li>
-<li>How to read API documentation to find the endpoints you’re looking for</li>
+0x16-API_advanced<li>How to read API documentation to find the endpoints you’re looking for</li>
 <li>How to use an API with pagination</li>
 <li>How to parse JSON results from an API</li>
 <li>How to make a recursive API call</li>
