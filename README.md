@@ -1,7 +1,7 @@
 <h1>Overview</h1>
 This project show all my work done for holbertonschool. In each folder, you will find a description of my learning objectives.
 <h1>Key indicator</h1>
-<p>592 program in 3 technical field: </p>
+<p>592 programs in 3 technicals field: </p>
 <li>Low level programming : 99 programs</li>
     <ul>C : 99 programs</ul>
 <li>High level programming : 317 programs</li>
